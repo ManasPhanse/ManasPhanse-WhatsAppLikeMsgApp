@@ -3,7 +3,11 @@
 # inspired from
 https://github.com/codingelle/django-whatsapp-web-clone
 
-## Demo by manas n omkar For Windows
+## Demo For Windows by:
+* Me (https://github.com/ManasPhanse)
+* Omkar (https://github.com/omkarsalian)
+* Mayuri (https://github.com/MayuriSakpal123)
+* Kajal (https://github.com/kajolmishra948)
 
 on http://127.0.0.1:8000/admin/
 
