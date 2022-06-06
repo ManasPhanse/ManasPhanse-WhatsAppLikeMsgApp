@@ -68,11 +68,11 @@ CHANNEL_LAYERS = {
 ### create .env file (for my prj I created key.env)
 
 add the following variable & replace it based on your own development keys
-
+```
 API_KEY=YourOwnGiphYAPIKeysdfasjfdgdf
 
 SECRET_KEY=YourOwnSecretKey71041jkfohdslflasdfjhaljdfa
-
+```
 
 #### run the development server
 ```
