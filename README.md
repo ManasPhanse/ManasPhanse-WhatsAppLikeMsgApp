@@ -77,9 +77,4 @@ SECRET_KEY=YourOwnSecretKey71041jkfohdslflasdfjhaljdfa
 #### run the development server
 ```
 manage.py runserver
-
-or
-
-daphne -b 0.0.0.0 -p 8088 django_channel_tutorial.asgi:application
-
 ```
